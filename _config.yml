@@ -6,9 +6,10 @@ description: How-Tos, Articles, Posts etc.
 # logo: site-logo.png
 logo: purple_octo.png
 search: true
-host: 0.0.0.0
+# host: 0.0.0.0
 # url: http://srv-wiki-01:4000
 # url: http://localhost:4000
+url: "http://csakel.github.io/wikiblog"
 
 # Jekyll configuration
 
