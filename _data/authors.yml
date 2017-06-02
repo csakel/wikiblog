@@ -1,0 +1,31 @@
+# Authors
+
+Christos Sakellariou:
+  name: Christos Sakellariou
+  # web: http://thewhip.com
+  email: csakellariou@bankofgreece.gr
+  # bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  # twitter: extravagantman
+  # google:
+    # plus: BillyRick
+
+Panagiotis Sebos:
+  name: Panagiotis Sebos
+  # web: http://thewhip.com
+  email: pesebos@bankofgreece.gr
+  # bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  # twitter: extravagantman
+  # google:
+    # plus: BillyRick
+
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
